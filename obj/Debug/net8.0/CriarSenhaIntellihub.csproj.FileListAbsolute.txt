@@ -1,0 +1,42 @@
+C:\Inova\Projetos\CriarSenhaIntellihub\bin\Debug\net8.0\CriarSenhaIntellihub.exe
+C:\Inova\Projetos\CriarSenhaIntellihub\bin\Debug\net8.0\CriarSenhaIntellihub.deps.json
+C:\Inova\Projetos\CriarSenhaIntellihub\bin\Debug\net8.0\CriarSenhaIntellihub.runtimeconfig.json
+C:\Inova\Projetos\CriarSenhaIntellihub\bin\Debug\net8.0\CriarSenhaIntellihub.dll
+C:\Inova\Projetos\CriarSenhaIntellihub\bin\Debug\net8.0\CriarSenhaIntellihub.pdb
+C:\Inova\Projetos\CriarSenhaIntellihub\obj\Debug\net8.0\CriarSenhaIntellihub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Inova\Projetos\CriarSenhaIntellihub\obj\Debug\net8.0\CriarSenhaIntellihub.AssemblyInfoInputs.cache
+C:\Inova\Projetos\CriarSenhaIntellihub\obj\Debug\net8.0\CriarSenhaIntellihub.AssemblyInfo.cs
+C:\Inova\Projetos\CriarSenhaIntellihub\obj\Debug\net8.0\CriarSenhaIntellihub.csproj.CoreCompileInputs.cache
+C:\Inova\Projetos\CriarSenhaIntellihub\obj\Debug\net8.0\CriarSenhaIntellihub.dll
+C:\Inova\Projetos\CriarSenhaIntellihub\obj\Debug\net8.0\refint\CriarSenhaIntellihub.dll
+C:\Inova\Projetos\CriarSenhaIntellihub\obj\Debug\net8.0\CriarSenhaIntellihub.pdb
+C:\Inova\Projetos\CriarSenhaIntellihub\obj\Debug\net8.0\CriarSenhaIntellihub.genruntimeconfig.cache
+C:\Inova\Projetos\CriarSenhaIntellihub\obj\Debug\net8.0\ref\CriarSenhaIntellihub.dll
+C:\Inova\Projetos\Gerador-Senhas\bin\Debug\net8.0\CriarSenhaIntellihub.exe
+C:\Inova\Projetos\Gerador-Senhas\bin\Debug\net8.0\CriarSenhaIntellihub.deps.json
+C:\Inova\Projetos\Gerador-Senhas\bin\Debug\net8.0\CriarSenhaIntellihub.runtimeconfig.json
+C:\Inova\Projetos\Gerador-Senhas\bin\Debug\net8.0\CriarSenhaIntellihub.dll
+C:\Inova\Projetos\Gerador-Senhas\bin\Debug\net8.0\CriarSenhaIntellihub.pdb
+C:\Inova\Projetos\Gerador-Senhas\obj\Debug\net8.0\CriarSenhaIntellihub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Inova\Projetos\Gerador-Senhas\obj\Debug\net8.0\CriarSenhaIntellihub.AssemblyInfoInputs.cache
+C:\Inova\Projetos\Gerador-Senhas\obj\Debug\net8.0\CriarSenhaIntellihub.AssemblyInfo.cs
+C:\Inova\Projetos\Gerador-Senhas\obj\Debug\net8.0\CriarSenhaIntellihub.csproj.CoreCompileInputs.cache
+C:\Inova\Projetos\Gerador-Senhas\obj\Debug\net8.0\CriarSenhaIntellihub.dll
+C:\Inova\Projetos\Gerador-Senhas\obj\Debug\net8.0\refint\CriarSenhaIntellihub.dll
+C:\Inova\Projetos\Gerador-Senhas\obj\Debug\net8.0\CriarSenhaIntellihub.pdb
+C:\Inova\Projetos\Gerador-Senhas\obj\Debug\net8.0\CriarSenhaIntellihub.genruntimeconfig.cache
+C:\Inova\Projetos\Gerador-Senhas\obj\Debug\net8.0\ref\CriarSenhaIntellihub.dll
+C:\Inova\Projetos\_Intellibrand - Auxiliares\Gerador-Senhas\bin\Debug\net8.0\CriarSenhaIntellihub.exe
+C:\Inova\Projetos\_Intellibrand - Auxiliares\Gerador-Senhas\bin\Debug\net8.0\CriarSenhaIntellihub.deps.json
+C:\Inova\Projetos\_Intellibrand - Auxiliares\Gerador-Senhas\bin\Debug\net8.0\CriarSenhaIntellihub.runtimeconfig.json
+C:\Inova\Projetos\_Intellibrand - Auxiliares\Gerador-Senhas\bin\Debug\net8.0\CriarSenhaIntellihub.dll
+C:\Inova\Projetos\_Intellibrand - Auxiliares\Gerador-Senhas\bin\Debug\net8.0\CriarSenhaIntellihub.pdb
+C:\Inova\Projetos\_Intellibrand - Auxiliares\Gerador-Senhas\obj\Debug\net8.0\CriarSenhaIntellihub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Inova\Projetos\_Intellibrand - Auxiliares\Gerador-Senhas\obj\Debug\net8.0\CriarSenhaIntellihub.AssemblyInfoInputs.cache
+C:\Inova\Projetos\_Intellibrand - Auxiliares\Gerador-Senhas\obj\Debug\net8.0\CriarSenhaIntellihub.AssemblyInfo.cs
+C:\Inova\Projetos\_Intellibrand - Auxiliares\Gerador-Senhas\obj\Debug\net8.0\CriarSenhaIntellihub.csproj.CoreCompileInputs.cache
+C:\Inova\Projetos\_Intellibrand - Auxiliares\Gerador-Senhas\obj\Debug\net8.0\CriarSenhaIntellihub.dll
+C:\Inova\Projetos\_Intellibrand - Auxiliares\Gerador-Senhas\obj\Debug\net8.0\refint\CriarSenhaIntellihub.dll
+C:\Inova\Projetos\_Intellibrand - Auxiliares\Gerador-Senhas\obj\Debug\net8.0\CriarSenhaIntellihub.pdb
+C:\Inova\Projetos\_Intellibrand - Auxiliares\Gerador-Senhas\obj\Debug\net8.0\CriarSenhaIntellihub.genruntimeconfig.cache
+C:\Inova\Projetos\_Intellibrand - Auxiliares\Gerador-Senhas\obj\Debug\net8.0\ref\CriarSenhaIntellihub.dll

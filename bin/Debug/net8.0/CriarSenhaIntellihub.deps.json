@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CriarSenhaIntellihub/1.0.0": {
+        "runtime": {
+          "CriarSenhaIntellihub.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CriarSenhaIntellihub/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
